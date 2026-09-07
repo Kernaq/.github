@@ -15,7 +15,6 @@
 
 <div align="center">
   <sub>
-    <a href="https://kernaq.com">kernaq.com</a> ·
     <a href="mailto:support@kernaq.com">support@kernaq.com</a> ·
     <a href="mailto:security@kernaq.com">security@kernaq.com</a>
   </sub>
